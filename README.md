@@ -12,6 +12,19 @@
         </li>
         <li>
            Install the above mentioned requirements.
+           Using the commands:-
+            <ul>
+                 <li>pip install nltk</li>
+                 <li>pip install gensim</li>
+            </ul>
+        </li>
+        <li>
+           Install the nltk libraries by running the following commands in the .ipynb file.
+           Using the commands:-
+            <ul>
+                 <li>nltk.download('stopwords')</li>
+                 <li>nltk.download('punkt')</li>
+            </ul>
         </li>
         <li>
            Type any queries in the query section in the .ipynb file  

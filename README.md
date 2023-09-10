@@ -1,4 +1,4 @@
-# Information-retrieval: Query Based Passage Retrival
+# Query Based Passage Retrieval
 This project focuses on retrieving relevant paragraphs/passages from a given corpus of policy documents based on user queries. The following steps were implemented:<br><br>
     <ol>
         <li><b>Tokenization and Normalization:</b> The corpus of policy documents was tokenized and normalized to break it down into paragraphs. Each paragraph was then mapped to the document it belonged to.</li>
